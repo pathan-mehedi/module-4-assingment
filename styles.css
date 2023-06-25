@@ -46,20 +46,21 @@ body {
   }
   
   .total-amount {
+    font-size: 18px;
     text-align: right;
     font-weight: bold;
   }
   
   .clear-cart {
-    background-color: #ff0000;
-    color: #fff;
+    background-color: #dd6142;
+    color: #000000;
     padding: 10px 20px;
     border: none;
     cursor: pointer;
   }
   
   button {
-    background-color: #007bff;
+    background-color: #1768be;
     color: #fff;
     border: none;
     padding: 10px 20px;
