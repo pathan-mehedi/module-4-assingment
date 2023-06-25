@@ -1,1 +1,1 @@
-﻿https://ostad-module4-assignment.netlify.app/
+﻿ostad-module4-assignment.netlify.app
